@@ -1,12 +1,21 @@
-Introduction
+![Covid-19 image](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/0edff2c1-2222-4578-9400-4cd6441bd405)
+
+# Introduction
 
 The COVID-19 Data Analysis Project is a comprehensive examination of the global impact of the COVID-19 pandemic. In the wake of this unprecedented global crisis, our project seeks to shed light on the pandemic's spread, effects, and the data-driven insights that can help in understanding and mitigating its impact.
+
+# Objective
+
+This project aims to analyze the COVID-19 pandemic using publicly available data. The project includes a Jupyter notebook with Python code to extract, clean, and visualize COVID-19 data from various sources. Additionally, the project provides a dashboard to explore the data interactively.
  
- 📈COVID-19_ANALYSIS - 📑Brief Summary
+# 📈COVID-19_ANALYSIS - 📑Brief Summary
 </h1>
 - Used Pandas and Json to gather data from API and then data cleaning.
+<br>
 - For K.P.I.’s and insights Used SQL to get useful data sets.
+<br>
 - Then transferred datasets to Excel for visualization.
+<br>
 - For the presentation used M.S. PowerPoint with the help of team members.
 <h2>
  🪨Challenges and 🧠learnings-
@@ -19,7 +28,7 @@ The COVID-19 Data Analysis Project is a comprehensive examination of the global 
 <h2> 
   🥅Objective-
 </h2>
-- This project is for learning purposes. So, considering that got this task from a Reputated Pharmaceutical company to do analysis on covid impact in all states of India and they also want to Vaccination trend to prepare for upcoming impact of any virus infection.
+- This project's objective is to conduct an analysis of the COVID-19 pandemic using publicly accessible data. It encompasses a Jupyter notebook containing Python code for the extraction, cleansing, and visualization of COVID-19 data from diverse sources. Moreover, the project offers an interactive dashboard for exploring this data.
 <h2> 
   🔡Data Extraction & Cleaning -
 </h2>
