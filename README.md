@@ -1,3 +1,7 @@
+Introduction
+
+The COVID-19 Data Analysis Project is a comprehensive examination of the global impact of the COVID-19 pandemic. In the wake of this unprecedented global crisis, our project seeks to shed light on the pandemic's spread, effects, and the data-driven insights that can help in understanding and mitigating its impact.
+ 
  📈COVID-19_ANALYSIS - 📑Brief Summary
 </h1>
 - Used Pandas and Json to gather data from API and then data cleaning.
