@@ -21,28 +21,18 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
  🪨Challenges and 🧠learnings-
 </h2>
 - API handling | Error Handling | Impactful presentation
-<h2>
- 🤖Techstack-
-</h2>
-- Python | SQL | Excel | M.S. PowerPoint 
 <h2> 
-  🔡Data Extraction & Cleaning -
-</h2>
-- To get the data, used official covid19india API (Application programming interface).
+  🔡Data Extraction & Cleaning
+ <br>
+ <br>
+1. Import the data from API using the requests library.
 <br>
-1. https://data.covid19india.org/v4/min/data.min.json
 <br>
-2. https://data.covid19india.org/v4/min/timeseries.min.json
-- with the help of pandas and other usefull library extract the data from above API's using two methods and also clean the data set while using error handling.
-- In this method created CSV file and then try to extract the data from nested dictionaries.
-<img src="https://github.com/manishhemnani06/COVID-19_ANALYSIS/blob/main/PPT/voeSQzXwhn.png">
-<img src="https://github.com/manishhemnani06/COVID-19_ANALYSIS/blob/main/PPT/3qebVBlQqR.png">
-<img src="https://github.com/manishhemnani06/COVID-19_ANALYSIS/blob/main/PPT/jzg2yg5mWu.png">
-- In second method, directly extracted the data from API using JSON library and created small data frames and at the end joined them 
-<img src="https://github.com/manishhemnani06/COVID-19_ANALYSIS/blob/main/PPT/JR0LCBMeK0.png">
-<img src="https://github.com/manishhemnani06/COVID-19_ANALYSIS/blob/main/PPT/J7kZJSbilv.png">
-<img src="https://github.com/manishhemnani06/COVID-19_ANALYSIS/blob/main/PPT/pThgpjZ2Or.png">
-<h2> 
+2. The imported data was in JSON format hence we used JSON library to read the data.
+![Screenshot (260)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/8e42322d-5a6f-4ae3-bc8e-1d2c926773fd)
+ <br>
+![Screenshot (261)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/4e74a7c1-78aa-4bbe-9467-3938f5f8a556)
+
   📑E.D.A.-
 </h2>
 - For presentation created a PPT Using PowerPoint.
