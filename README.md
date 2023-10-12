@@ -24,11 +24,7 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 <h2>
  🤖Techstack-
 </h2>
-- Python | SQL | Excel | M.S. PowerPoint
-<h2> 
-  🥅Objective-
-</h2>
-- This project's objective is to conduct an analysis of the COVID-19 pandemic using publicly accessible data. It encompasses a Jupyter notebook containing Python code for the extraction, cleansing, and visualization of COVID-19 data from diverse sources. Moreover, the project offers an interactive dashboard for exploring this data.
+- Python | SQL | Excel | M.S. PowerPoint 
 <h2> 
   🔡Data Extraction & Cleaning -
 </h2>
