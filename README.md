@@ -29,30 +29,30 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 <br>
 <br>
 2. The imported data was in JSON format hence we used JSON library to read the data.
-![Screenshot (260)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/8e42322d-5a6f-4ae3-bc8e-1d2c926773fd)
- <br>
-![Screenshot (261)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/4e74a7c1-78aa-4bbe-9467-3938f5f8a556)
 
-  📑E.D.A.-
-</h2>
-- For presentation created a PPT Using PowerPoint.
-![rmBGpKhvUt](https://user-images.githubusercontent.com/116347164/232290404-b362ec37-61e8-474a-ab66-f11881e233da.png)
--  Glimpse of PPT . 
-![KiO3fUPAZV](https://user-images.githubusercontent.com/116347164/232290332-2a222a7a-d873-4239-b947-9295ad78b36c.png)
--  created total three tables . 
-![3G5vS9MQyP](https://user-images.githubusercontent.com/116347164/232290277-eceb92f6-dd16-4c0c-903a-0b2aa1afa22e.png)
-- Task performed -
-![Rg6je5ntSA](https://user-images.githubusercontent.com/116347164/232290257-3a8fe83e-0921-4353-a14e-8f815f62c66e.png)
-- Insights & Results -
-![bHO59NnVE0](https://user-images.githubusercontent.com/116347164/232290449-56bb6d62-e689-47b3-b973-e266097e7bac.png)
-![3M2vYlrArk](https://user-images.githubusercontent.com/116347164/232290467-1338169d-2150-43e1-8928-e8603802b473.png)
-![K49IHytBH5](https://user-images.githubusercontent.com/116347164/232290599-7c4474b7-db7a-4ed2-a11d-0a15315d5029.png)
-<h2> 
-  📊Dashboard-
-</h2>
-- With the help of Excel dashboard we can analyze the condition of each and also do comparision of different states on different parameter.
+![Screenshot (265)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/d25f5aff-bd99-47a0-adcc-28ef518292b8)
+![Screenshot (266)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/364a1577-fb20-4aa3-a90c-569b3d4cbeec)
 
-![QSsifpBXs6](https://user-images.githubusercontent.com/116347164/232290845-d67f6d5e-1ea7-4721-be41-d321085bda93.png)
 
-- Visit here for Excel Dashboard & Visualization 👉
-https://github.com/manishhemnani06/COVID-19_ANALYSIS/blob/main/EXCEL%20FILES/NEW/COVID_19_DASHBORAD_MAIN_FILE.xlsx
+
+
+3. We looked for null values and replaced them with zero, looking for duplicates.
+<br>
+4. Stated analyzing the data by using pandas functions like group by, sort_values, etc.
+<br>
+<br>
+5. Used nested 'for' loops to extract the relevant data from the nested dictionary.
+
+![Screenshot (262)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/0f068ec0-0c75-4126-a127-81385301e447)
+![Screenshot (263)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/45feeca4-8191-422c-809c-10aa4804dcfc)
+![Screenshot (264)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/c0f64647-8a1d-4ed4-a436-e5aa0cf888b2)
+
+6. Extracted the individual state data from the data frame in CSV format and imported data into MySQL.
+<br>
+7. Aggregated the distribution by month and week wise for each state.
+<br>
+<br>
+8. Imported the aggregated data into Excel for further Analysis.
+<br>
+<br>
+📊Dashboard
