@@ -18,15 +18,13 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 <br>
 - For the presentation used M.S. PowerPoint with the help of team members.
 <h2>
- 🪨Challenges and 🧠learnings-
-</h2>
-- API handling | Error Handling | Impactful presentation
-<h2> 
+ 🪨Challenges and 🧠learnings
+
+
   🔡Data Extraction & Cleaning
  <br>
  <br>
 1. Import the data from API using the requests library.
-<br>
 <br>
 2. The imported data was in JSON format hence we used JSON library to read the data.
 
@@ -55,4 +53,27 @@ This project aims to analyze the COVID-19 pandemic using publicly available data
 8. Imported the aggregated data into Excel for further Analysis.
 <br>
 <br>
+Analysis
+
+![Screenshot (267)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/0681f22f-d84d-4d29-b562-6370437247f7)
+![Screenshot (268)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/32abfc35-a9da-44da-abbd-bb6855814cef)
+![Screenshot (269)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/cb7fdc46-fd03-4206-9fd4-20d70b313154)
+![Screenshot (270)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/68f06d36-770e-4a9d-bb0b-cd42948b0562)
+
+
+
+
+
+
 📊Dashboard
+
+![Screenshot (271)](https://github.com/mdkamran048/Covid-19-Analysis/assets/143988392/96b90e42-a505-40ba-bbe7-1d03c2fa2506)
+
+ 🪨Challenges and 🧠learnings
+ <br>
+ Data Extraction from JSON : 
+
+
+
+
+
